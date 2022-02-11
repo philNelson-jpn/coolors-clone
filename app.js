@@ -599,4 +599,3 @@ function getLocal() {
 getLocal()
 randomColors()
 
-localStorage.clear()
